@@ -1,11 +1,13 @@
 # 💫 Hello World ! I'm Ilyes,
 Currently studying cybersecurity at ISEN-Lille, and learning on Tryhackme.
 
+See my repositories and projects: [![GitHub](https://img.shields.io/badge/GitHub-View%20Repositories-blue?logo=github)](https://github.com/Ilyes-a?tab=repositories) <br/>
+
 Join me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ilyesachaq) ! <br/>
 Link of my Tryhackme profile : [![TryHackMe](https://img.shields.io/badge/TryHackMe-blue?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ilyess)<br/>
 
 
-See my repositories and projects: [![GitHub](https://img.shields.io/badge/GitHub-View%20Repositories-blue?logo=github)](https://github.com/Ilyes-a?tab=repositories)
+
 
 # 📊 Stats:
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ilyess.png) <br/>
