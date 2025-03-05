@@ -1,4 +1,4 @@
-# 💫 Hello World ! I'm Ilyes,
+# 💫 Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! I'm Ilyes,
 Currently studying cybersecurity at ISEN-Lille, and learning on Tryhackme.
 
 See my repositories and projects: [![GitHub](https://img.shields.io/badge/GitHub-View%20Repositories-blue?logo=github)](https://github.com/Ilyes-a?tab=repositories) <br/>
