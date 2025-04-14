@@ -11,7 +11,7 @@ Link of my Tryhackme profile : [![TryHackMe](https://img.shields.io/badge/TryHac
 
 # 📊 Stats:
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ilyess.png) <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ilyes&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ilyes-a&theme=dark&hide_border=false)<br/>
 
 # 🎇 Commits : 
 <picture>
