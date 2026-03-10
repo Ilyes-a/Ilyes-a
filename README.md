@@ -1,6 +1,6 @@
 # Ilyes
 
-Cybersecurity Master's student at ISEN Lille (Junia), focused on cybersecurity governance, risk management and security operations.
+Cybersecurity Master's student at ISEN Lille, focused on cybersecurity governance, risk management and security operations.
 
 ## Learning Platforms
 
